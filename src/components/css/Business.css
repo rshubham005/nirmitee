@@ -1,0 +1,66 @@
+.business
+{
+    width: 100%;
+    height: 70vh;
+    background-color: #3362CC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.business h1
+{
+    color: white;
+    font-size: 45px;
+}
+.contents
+{
+    padding: 0 8%;
+}
+.hero
+{
+    border-radius: 50px;
+    text-align: center;
+    width: 100%;
+    margin-top: -10%;
+    background-color: white;
+}
+.hero img
+{
+    width: 70%;
+}
+.col-md-6
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.col-md-6 .card-banner
+{
+    display: block;
+    width: 100%;
+}
+h3,h4,h5
+{
+    color: rgb(77, 77, 77);
+    font-weight: bold;
+}
+p
+{
+    color: grey;
+    padding: 10px;
+}
+.exception
+{
+    background-color: #3362CC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+}
+.exception p,h3
+{
+    color: white;
+}

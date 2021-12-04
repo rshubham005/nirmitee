@@ -1,0 +1,51 @@
+.webdev
+{
+    width: 100%;
+    height: 70vh;
+    background-color: #48CAD9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.webdev h1
+{
+    color: white;
+    font-size: 45px;
+}
+.contents
+{
+    padding: 0 8%;
+}
+.hero
+{
+    border-radius: 50px;
+    text-align: center;
+    width: 100%;
+    margin-top: -10%;
+    background-color: white;
+}
+.hero img
+{
+    width: 70%;
+}
+h3,h4,h5
+{
+    color: rgb(77, 77, 77);
+    font-weight: bold;
+    padding: 10px;
+}
+p
+{
+    color: grey;
+    padding: 10px;
+    font-size: 14px;
+}
+.row img
+{
+    width: 100px;
+    padding: 10px;
+}
+.row .logo
+{
+    width: 150px;
+}
